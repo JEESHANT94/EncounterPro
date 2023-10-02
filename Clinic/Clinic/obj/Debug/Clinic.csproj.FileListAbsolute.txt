@@ -1,0 +1,13 @@
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Notes.dll
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\bin\Debug\Notes.pdb
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Clinic.csproj.AssemblyReference.cache
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Form1.resources
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Clinic.csproj.GenerateResource.cache
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Clinic.csproj.CopyComplete
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\jeesh\Downloads\Assignment 3\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
